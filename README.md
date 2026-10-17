@@ -4,6 +4,13 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/fa88d3c7-2fc8-4bf2-94d4-52b62ead392c
+
+
+
+
 ## 🌟 Overview
 
 **System Design Atlas** is a comprehensive educational environment designed to bridge the gap between high-level architectural theory and tangible engineering intuition. Rather than presenting static diagrams and passive text, the Atlas pairs deeply researched concept guides with **12 interactive simulation laboratories**, a full **drag-and-drop architecture workbench**, **10 worked FAANG-grade case studies**, and a **self-paced practice center** featuring quizzes, incorrect-answer reviews, and active-recall flashcards.
